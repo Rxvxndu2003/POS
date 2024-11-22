@@ -85,7 +85,7 @@
                 <p>Sales</p>
             </div>
             <div class="icon">
-                <i class="fa fa-dollar"></i>
+                <i class="fa">RS</i>
             </div>
             <a href="{{ route('penjualan.index') }}" class="small-box-footer">View <i class="fa fa-arrow-circle-right"></i></a>
         </div>
@@ -101,7 +101,7 @@
                 <p>Total Expenses</p>
             </div>
             <div class="icon">
-                <i class="fa fa-dollar"></i>
+                <i class="fa">RS</i>
             </div>
             <a href="{{ route('pengeluaran.index') }}" class="small-box-footer">View <i class="fa fa-arrow-circle-right"></i></a>
         </div>
@@ -117,7 +117,7 @@
                 <p>Total Purchase</p>
             </div>
             <div class="icon">
-                <i class="fa fa-dollar"></i>
+                <i class="fa">RS</i>
             </div>
             <a href="{{ route('pembelian.index') }}" class="small-box-footer">View <i class="fa fa-arrow-circle-right"></i></a>
         </div>
